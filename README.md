@@ -80,3 +80,15 @@ mongoimport --uri="mongodb://root:{MONGODB_PASSWORD}@{MONGODB_HOST}/reviews?auth
 | `GetAggregateSalesForCompany(year, month)`     | Total sales for company          |
 | `GetTopSellingProductsByCategory(month, year)` | Top-selling product per category |
 | `GetTopSellingProductByStore(month, year)`     | Top-selling product per store    |
+
+Tech Stack
+
+Backend: Java, Spring Boot, JPA, REST
+
+Databases: MySQL, MongoDB
+
+Frontend: HTML, CSS, JavaScript
+
+Build Tool: Maven
+
+Tools: Spring Boot Actuator, Python HTTP Server
